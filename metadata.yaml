@@ -1,0 +1,25 @@
+_repo: Gabon-De-Aarde-en-haar-volken-1868_69259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bellay, Marie-Théophile Griffon du
+    gutenberg_agent_id: '55187'
+    url: http://www.gutenberg.org/2009/agents/55187
+description: ''
+gutenberg_issued: '2022-10-29'
+identifiers:
+  gutenberg: '69259'
+language: nl
+pgterms:marc905: 20060205133926various
+pgterms:marc906: '1918'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'Netherlands: H. D. Tjeenk Willink & Zn.,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Gabon: De Aarde en haar volken, 1868'
+url: http://www.gutenberg.org/ebooks/69259
