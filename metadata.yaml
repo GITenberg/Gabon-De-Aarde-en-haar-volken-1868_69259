@@ -1,11 +1,16 @@
 _repo: Gabon-De-Aarde-en-haar-volken-1868_69259
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69259-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Bellay, Marie-Théophile Griffon du
     gutenberg_agent_id: '55187'
     url: http://www.gutenberg.org/2009/agents/55187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69259#Gabon-De-Aarde-en-haar-volken-1868
 gutenberg_issued: '2022-10-29'
 identifiers:
   gutenberg: '69259'
